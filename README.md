@@ -96,7 +96,7 @@ git clone https://github.com/Rajat119/bitespeed-task.git
 2. Change into the project's directory
 
 ```bash
-cd Bitespeed-Backend-Task-Identity-Reconciliation-
+cd bitespeed-task
 ```
 
 3. Start the MySQL database and web service using Docker:
